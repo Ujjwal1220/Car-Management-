@@ -1,7 +1,7 @@
-Note: If you are looking for the backend code, switch to the other branch.
+# Note: If you are looking for the backend code, switch to the other branch.
 
 
-Frontend Setup Guide
+### Frontend Setup Guide
 
 This project contains the steps to set up the frontend.
 
@@ -34,8 +34,5 @@ Tailwind CSS should be configured properly for styling to work.
 
 The project uses Vite, so ensure compatibility with your environment.
 
-For Backend Code
-
-Switch to the backend branch to access backend files and configurations.
-
-This format is concise and note-like as per your preference.
+// Command to run the project.
+## npm run dev
