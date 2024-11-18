@@ -20,3 +20,5 @@ npm i jsonwebtoken
 npm i cookie-parser
 
 npm i cors
+
+## Run command : npm run dev
